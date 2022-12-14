@@ -1,14 +1,10 @@
-Olá, me chamo Lucas Vieira, tenho 24 anos e atualmente curso graduação de Ciência da computação e também direciono meus estudos a cursos, bootcamps e projetos por fora, principalmente na plataforma DIO. 
+Olá, me chamo Lucas Vieira, tenho 24 anos e atualmente curso graduação de Ciência da computação e também faço cursos relacionados a minha area na plataforma DIO.
 
 
  
  ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Desenvolvedor Java Júnior da Noovi.
-- 🌱 Estou aprendendo Java, Sql, MongoDB, Jdbc, Maven, JPA/Hibernate, Tomcat, Spring Framework e SpringBoot;
-- ✍️ Pude praticar todo esse conhecimento em alguns projetos que estão disponíveis no meu portifólio. 
-- 🤔 Estou procurando ajudar com a linguagem Java;
-- ⚡ Curiosidade: Sou um cara proativo que está sempre procurando uma maneira para facilitar o próximo, por exemplo, participei diretamente na criação do discord para minha turma ter um ambiente confortável de estudo e interação, realizando o networking.
+
 
 <div align="left">
   <a href="https://github.com/Shisapon">
