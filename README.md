@@ -1,4 +1,4 @@
-Olá, me chamo Lucas Vieira, tenho 25 anos e atualmente curso graduação de Ciência da computação e também faço cursos relacionados a minha area na plataforma DIO.
+Olá, me chamo Lucas Vieira, tenho 25 anos e atualmente estou estudando JAVA.
 
 
  
